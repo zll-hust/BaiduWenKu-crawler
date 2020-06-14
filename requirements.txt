@@ -1,8 +1,5 @@
 pillow==6.1.0
 requests
 selenium
-python-docx
 lxml
-time
 bs4
-re
