@@ -15,7 +15,7 @@
 
 用户界面：
 
-![1](https://github.com/zll-hust/BaiduWenKu-crawler/blob/master/img/1.png)
+![image](https://github.com/zll-hust/BaiduWenKu-crawler/blob/master/img/1.png)
 
 输入要爬取的百度文库网页的url地址：
 
