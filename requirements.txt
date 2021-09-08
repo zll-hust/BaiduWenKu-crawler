@@ -1,4 +1,4 @@
-pillow==6.1.0
+pillow==8.3.2
 requests
 selenium
 lxml
